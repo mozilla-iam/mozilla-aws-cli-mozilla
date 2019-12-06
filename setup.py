@@ -17,7 +17,7 @@ setup(
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3"
     ],
-    install_requires=["mozilla_aws_cli"],
+    install_requires=["mozilla_aws_cli<=0.1.1"],
     keywords="maws Mozilla AWS CLI config",
     long_description=readme,
     long_description_content_type='text/markdown',
