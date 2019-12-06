@@ -23,6 +23,6 @@ setup(
     long_description_content_type='text/markdown',
     packages=["mozilla_aws_cli_config"],
     url="https://github.com/mozilla-iam/mozilla-aws-cli-mozilla",
-    version="1.0.0",
+    version="1.1.0",
     zip_safe=False,
 )
