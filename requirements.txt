@@ -1,1 +1,1 @@
-mozilla_aws_cli
+mozilla_aws_cli<=0.1.1
