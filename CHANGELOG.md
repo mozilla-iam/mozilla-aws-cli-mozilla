@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.1] - 2022-04-14
+### Changed
+* Requirement that we use mozilla-aws-cli >= 1.2.5 to prevent installing with a
+  conflicting version of Werkzeug
+
 ## [1.3.0] - 2020-02-13
 ### Changed
 * Requirement that we use mozilla-aws-cli >= 1.1.0 to ensure using the original
@@ -33,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * Initial release of the mozilla-aws-cli-mozilla configuration package
 
-[Unreleased]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.3.1...HEAD
+[1.3.1]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/mozilla-iam/mozilla-aws-cli-mozilla/compare/v1.0.0...v1.1.0

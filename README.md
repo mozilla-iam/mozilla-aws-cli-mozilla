@@ -6,3 +6,8 @@ with the specific configuration settings for Mozilla employees and contributors.
 
 This package is only needed if you intend to use the `maws` to access AWS 
 accounts owned by Mozilla.
+
+To install it, run
+```
+pip install --user mozilla-aws-cli-mozilla
+```
